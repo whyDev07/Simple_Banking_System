@@ -102,8 +102,8 @@ This is a learning project. Security features like password hashing are not impl
 
 ---
 
-**Author:** Dev Adhikari  
-**Built with:** Java, MySQL, JDBC
-
-**GitHub:** [@whyDev07](https://github.com/whyDev07)  
-**Project Link:** [View Repository](https://github.com/whyDev07/Simple_Banking_System)
+**Author :** Dev Adhikari  
+**Built with :** Java, MySQL, JDBC                                                                   
+**Email :** devadhikari5665@gmail.com                                                                                                                                                                   
+**GitHub :** [@whyDev07](https://github.com/whyDev07)  
+**Project Link :** [View Repository](https://github.com/whyDev07/Simple_Banking_System)
